@@ -9,8 +9,8 @@ function App() {
   return (
     <>
       {/* <UsecallBack /> */}
-      <UseMemo />
-      {/* <ReactMemo /> */}
+      {/* <UseMemo /> */}
+      <ReactMemo />
     </>
   )
 }
